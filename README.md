@@ -49,6 +49,46 @@ at first systen has 2 options:
 2) Log in 
 #### Registration and Log in exmaple:
 ```
+Welcome to the online retail store!
+Please select one of the options below:
+1- Register
+2- Sign in
+input: 1
+Enter person 1 information.
+set your Username:
+input: Venom
+set your Password:
+input: 123
+Enter your name:
+input: Venom
+Enter your last name:
+input: Smbiote
+Enter your age:
+input: 250
+Register was successful.
+You are signed in.
+
+       <USER MODE>  
+3- enter name of stuff to see its info
+4- to exit
+input: 4
+Welcome to the online retail store!
+Please select one of the options below:
+1- Register
+2- Sign in
+input: 2
+Enter Username:
+input: Venom
+Enter Password:
+input: 123
+Welcome to the system Venom!
+       <USER MODE>  
+3- enter name of stuff to see its info
+4- to exit
+input: 3
+Enter stuffs name to see its attribute:
+input: Electronic
+Item not found!
 
 ```
 
