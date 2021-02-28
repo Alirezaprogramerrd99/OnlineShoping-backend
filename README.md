@@ -54,6 +54,7 @@ Please select one of the options below:
 1- Register
 2- Sign in
 input: 1
+
 Enter person 1 information.
 set your Username:
 input: Venom
@@ -65,6 +66,7 @@ Enter your last name:
 input: Smbiote
 Enter your age:
 input: 250
+
 Register was successful.
 You are signed in.
 
@@ -72,24 +74,31 @@ You are signed in.
 3- enter name of stuff to see its info
 4- to exit
 input: 4
+
 Welcome to the online retail store!
 Please select one of the options below:
 1- Register
 2- Sign in
 input: 2
+
 Enter Username:
 input: Venom
 Enter Password:
 input: 123
+
 Welcome to the system Venom!
+
        <USER MODE>  
 3- enter name of stuff to see its info
 4- to exit
 input: 3
+
 Enter stuffs name to see its attribute:
 input: Electronic
 Item not found!
 
 ```
 
+### License:
+this repo coverd under  [Apache License](https://github.com/Alirezaprogramerrd99/OnlineShoping-backend/blob/main/LICENSE)
 
