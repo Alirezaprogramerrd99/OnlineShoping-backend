@@ -4,7 +4,7 @@ This is one of my AP mini-projects implemented in the 3rd semester of University
 
 I used _inheritance_ and _polymorphism_ consepts to implement this system.
 
-### general inforamtion about project:
+### General info about project:
 
 ```
 the source codes of project are avalible in folder src.
@@ -25,4 +25,16 @@ the source codes of project are avalible in folder src.
  shoping system is OnlineShoping class that is in the OnlineShoping.java file.
   
 ```
-
+### How to use Project:
+  #### 1) you can use gitbash and git commands to clone(download) project.
+   first you must install `<git version>` control in your local system.
+   you can visit this [Link](https://git-scm.com/) to find suitable version of `<git>` for your system. 
+   
+   after that use follwing commands to clone from my repo:
+   ```
+   git init
+   git clone https://github.com/Alirezaprogramerrd99/OnlineShoping-backend.git
+   
+   ```
+   #### 2) you can use download ZIP option in my repo
+   for more info see this [Link](https://www.instructables.com/Downloading-Code-From-GitHub/)
