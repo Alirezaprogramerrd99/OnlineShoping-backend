@@ -39,6 +39,17 @@ the source codes of project are avalible in folder src.
    #### 2) you can use download ZIP option in my repo
    for more info see this [Link](https://www.instructables.com/Downloading-Code-From-GitHub/)
    
- ### How to use Project:
+### How to use Project:
   The codes can be compiled by any java compiler and IDE
-  for example you can use [Intellj IDEA](https://www.jetbrains.com/idea/) for running project
+  for example you can use [Intellj IDEA](https://www.jetbrains.com/idea/) for running project.
+  
+### Inputs and Outputs:
+at first systen has 2 options:
+1) Registration
+2) Log in 
+#### Registration and Log in exmaple:
+```
+
+```
+
+
